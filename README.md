@@ -13,6 +13,7 @@ To run this project successfully, you must first obtain API keys for both Google
 google.maps.api.key=YOUR_GOOGLE_MAPS_API_KEY
 openai.api.key=sk-YOUR_OPENAI_CHATGPT_API_KEY
 openai.api.url=https://api.openai.com/v1/chat/completions
+```
 
 ## Contribution
 
